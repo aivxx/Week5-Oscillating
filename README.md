@@ -12,3 +12,8 @@ Mateirals and Shaders
 - I created a MaterialsPulse script and attached it to the Pick Up cube.
 - I adjusted min and max opacity as well as opacity steps.
 
+
+Prefabs
+- I learned how to create a prefab and implement into my scene
+- Created bonus gameobject and script to spawn after all pick ups have been picked up by Player
+
